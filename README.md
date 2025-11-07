@@ -6,7 +6,7 @@ This project focuses on analyzing financial risk factors for bank loan customers
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 The dataset contains customer financial and personal records. Key attributes include:
 
@@ -23,7 +23,7 @@ The dataset contains customer financial and personal records. Key attributes inc
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -34,7 +34,7 @@ The dataset contains customer financial and personal records. Key attributes inc
 
 ---
 
-## 🔧 Workflow / Steps Performed
+##  Workflow / Steps Performed
 
 1. **Data Cleaning & Preparation**
    - Removed duplicates
@@ -61,7 +61,7 @@ The dataset contains customer financial and personal records. Key attributes inc
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Most defaults occur in the **Low Credit Score** group.
 - **Young customers (<30 years)** and **customers with low income** show higher repayment instability.
@@ -71,7 +71,7 @@ The dataset contains customer financial and personal records. Key attributes inc
 
 ---
 
-## 📝 Conclusion
+##  Conclusion
 
 Banks can reduce financial risk by:
 
@@ -84,7 +84,7 @@ This analysis helps banks make **data-driven decisions** for responsible lending
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 - Build an interactive dashboard in **Power BI / Tableau**
 - Perform statistical analysis using **Python (Pandas, NumPy, Matplotlib)**
@@ -92,7 +92,7 @@ This analysis helps banks make **data-driven decisions** for responsible lending
 
 ---
 
-### 📦 Project File Included
+###  Project File Included
 
 - `Financial_Risk_Analysis_Bank_CaseStudy.xlsx`
 
