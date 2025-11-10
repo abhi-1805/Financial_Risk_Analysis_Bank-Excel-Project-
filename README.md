@@ -94,7 +94,7 @@ This analysis helps banks make **data-driven decisions** for responsible lending
 
 ###  Project File Included
 
-- `Financial_Risk_Analysis_Bank_CaseStudy.xlsx`
+- ![FIle](Financial_Risk_Analysis_Bank_CaseStudy.xlsx)
 
 ---
 
