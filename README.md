@@ -1,6 +1,6 @@
 # Financial Risk Analysis - Bank Case Study (Excel Project)
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 This project focuses on analyzing financial risk factors for bank loan customers using **Microsoft Excel**. The objective of the project is to understand customer loan behavior, evaluate default risk, identify high-risk customer segments, and generate insights that can support decision-making in loan approvals and credit risk management.
 
