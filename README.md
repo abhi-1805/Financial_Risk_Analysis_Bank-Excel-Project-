@@ -91,11 +91,7 @@ This analysis helps banks make **data-driven decisions** for responsible lending
 - Train machine learning models to **predict loan default risk**
 
 ---
+###  Project Files Included
 
-###  Project File Included
-
-- ![FIle](Financial_Risk_Analysis_Bank_CaseStudy.xlsx)
-
----
-
+- **Excel Analysis File:** [Financial Risk Analysis (Bank Case Study).xlsx](Financial_Risk_Analysis_Bank_CaseStudy.xlsx)
 
